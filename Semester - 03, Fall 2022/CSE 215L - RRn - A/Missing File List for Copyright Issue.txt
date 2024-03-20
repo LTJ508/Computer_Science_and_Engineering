@@ -1,0 +1,5 @@
+These file are not shared publicly for avoiding copyright issue.
+
+01. Project already shared in this repo
+	https://github.com/LTJ508/Inventory-Management-and-Billing-System-JAVA.git
+02. Lab Manual

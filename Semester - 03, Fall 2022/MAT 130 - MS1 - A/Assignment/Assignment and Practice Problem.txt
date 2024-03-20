@@ -1,0 +1,60 @@
+Practice Problem:
+
+Exercise - 7.2: 1-38, 47-52, 61, 62 = 46
+Exercise - 7.3: 10-50 = 41
+Exercise - 7.4: 1-26, 37-48 = 38
+Exercise - 7.5: 9-34, 39-42 = 25
+Exercise - 6.9: 15-25, 29-44 = 22
+Exercise - 6.1: 1-6 (consider the equations and try to draw the graph without help of book), 7-18, 35-38 = 17
+Exercise - 6.2: 1-8, 11-18, 22-25, 39-44 = 24
+Exercise - 6.3: 1-16, 27-30 = 15
+
+Final Practice Problem
+Exercise-6.4: 3-8, 27-32 = 12
+Exercise-6.5: 1-8, 25, 35, 36, 37 = 12
+Exercise-7.8: 3 – 32, 47, 48
+Exercise-10.1: 46, 48, 66, 68
+Exercise-10.2: 3, 4, 5, 28, 32, 44
+Exercise-10.3: 19-21, 29-46
+Exercise-10.4: 3 – 26(>1)
+Exercise-10.6:(<1)
+
+Assignment: 4, 5, 6
+Quizzes: 3, 4, 5, 6
+
+
+Assignment-1: 15
+
+Problems list (Exercise - 7.2): Evaluate (5 points): 10, 20, 26, 32, 38
+Problems list (Exercise - 7.3): Evaluate (5 points): 10, 30, 42, 46, 48
+Problems list (Exercise - 7.4): Evaluate (5 points): 10, 20, 40, 46, 48
+
+Assignment-2: 15
+
+Problems list (Exercise - 7.5): Evaluate (5 points): 10, 20, 26, 30, 32
+Problems list (Exercise – 6.9): Evaluate (5 points): 20, 26, 32, 38, 42
+Problems list (Exercise – 6.1): Evaluate (5 points): 08, 11, 13, 14, 37
+
+Assignment-3: 10
+
+Problems list (Exercise – 6.2): Evaluate (5 points): 4, 12, 16, 24, 42
+Problems list (Exercise – 6.3): Evaluate (5 points): 4, 6, 9, 14, 30
+
+Assignment-4: 10
+Problems list (Exercise – 6.4): Evaluate (5 points): 4, 6, 8, 30, 32
+Problems list (Exercise – 6.5): Evaluate (5 points): 3, 6, 8, 25, 36
+
+Assignment-5: 10
+Problems list (Exercise – 7.8): Evaluate the integrals converge (10 points): 7, 10, 12, 14, 16, 21, 24, 26, 30, 31
+
+Assignment-6: 10
+Problems list (Exercise –10.1): 46, 48, 66, 68
+Problems list (Exercise –10.2): 3e, 4e, 5e, 28, 32, 44
+Problems list (Exercise –10.3): 30, 38, 39, 40, 42
+
+Quizzes-1: 7.2, 7.3 = 10 Marks
+Quizzes-2: 7.4, 7.5 = 10 Marks
+Quizzes-3: 6.4, 6.5 = 10 Marks
+Quizzes-4: 7.8 = 10 Marks
+Quizzes-5: 10.1, 10.2 = 10 Marks
+Quizzes-6: 10.4 = 10 Marks
