@@ -3,5 +3,7 @@ These file are not shared publicly for avoiding copyright issue.
 01. Assignment Question
 02. eBooks
 03. Lecture Slide
-04. Ref Link of Course Objective and Outcome:
+04. C Code done in this course already shared in this repo:
+	https://github.com/LTJ508/C_and_C_plus_plus_Language_Learning
+05. Ref Link of Course Objective and Outcome:
 	http://ece.northsouth.edu/courses/cse-115/

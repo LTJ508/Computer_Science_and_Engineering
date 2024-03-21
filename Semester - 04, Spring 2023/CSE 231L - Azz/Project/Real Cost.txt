@@ -1,0 +1,53 @@
+Project Cost:
+Wires 40 pcs: 95 TK
+Total: 95 TK
+
+IC 7432 2 Input OR= 2x = 60 TK
+IC 4075 3 Input OR = 4x = 140 TK
+IC 74154 4:16 Line Decoder = 2x = 180 TK
+7 Segment Display Active High = 1x = 15 TK
+L7805 Voltage Regulator 5V = 2x = 30 TK
+Battery 9V = 2x = 180 TK
+9V Battery Connector = 1x = 15 TK
+Bread Board Large = 1x = 150 TK
+Jumper Wire M to M = 20x = 60 TK
+Push Button 2 pin = 6x = 60 TK
+Total = 890 TK
+
+7 Segment Display Common Cathode = 1x = 15 TK
+Resistor 470 OHM = 10x = 20 TK
+DIP Switch 4 bit = 2x = 60 TK
+LED = 2x = 5 TK
+BreadBoard Large = 1x = 150 TK
+Wires = 20x = 60 TK
+Total: 310 TK
+
+7 Segment Display Common Anode= 1x = 15 TK
+Resistor 470 Ohm = 5x = 10 TK
+IC 7408 2 Input AND = 2x = 60 TK
+IC 4073 3 Input AND = 2x = 70 TK
+Total: 155 TK
+
+Nifat: Color Print = 110 TK
+
+Timer IC 555 = 2x = 40 TK
+J-K Flip Flop = 3x = 120 TK
+Resistor 4.7K = 3x = 5 TK
+LED Green = 2x = 5 TK
+Capacitor 100 and 0.1 MicroF = 2x = 10 TK
+Wire = 20x = 70 TK
+Total = 250 TK
+
+J-K Flip Flop = 2x = 80 TK
+J-K Flip Flop = 2x = 120 TK
+D Flip Flop = 2x = 70 TK
+Resistor 10k + LED = 5x = 10 TK
+IC 7408 AND = 1x = 30 TK
+Wire = 10x = 50 TK
+Total: 360 TK
+
+Print & Binding: 60+30 = 90 TK
+
+Total = 95+890+ 310+155+250+360+110+90 = 2,260 TK
+
+Per Head: 450 TK

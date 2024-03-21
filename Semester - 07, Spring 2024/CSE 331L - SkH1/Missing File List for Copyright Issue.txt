@@ -1,0 +1,6 @@
+These file are not shared publicly for avoiding copyright issue.
+
+01. Lab Manual
+02. Software
+03. Assembly Code already shared in this repo:
+	https://github.com/LTJ508/

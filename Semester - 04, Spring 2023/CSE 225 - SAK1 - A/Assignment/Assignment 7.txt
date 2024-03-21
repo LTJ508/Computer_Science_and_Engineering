@@ -1,0 +1,37 @@
+template <class ItemType>
+struct TreeNode
+{
+    ItemType info;
+    TreeNode* left;
+    TreeNode* right;
+};
+
+void InOrderTraversal(TreeNode* tree)
+{
+    if(tree != NULL)
+    {
+        InOrderTraversal(tree->left);
+        cout << tree->info << endl;
+        InOrderTraversal(tree->right);
+    }
+}
+
+void PreOrderTraversal(TreeNode* tree)
+{
+    if(tree != NULL)
+    {
+        cout << tree->info << endl;
+        PreOrderTraversal(tree->left);
+        PreOrderTraversal(tree->right);
+    }
+}
+
+void PostOrderTraversal(TreeNode* tree)
+{
+    if(tree != NULL)
+    {
+        PostOrderTraversal(tree->left);
+        PostOrderTraversal(tree->right);
+        cout << tree->info << endl;
+    }
+}

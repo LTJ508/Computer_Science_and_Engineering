@@ -3,6 +3,8 @@ These file are not shared publicly for avoiding copyright issue.
 01. Assignment PDF File
 02. Project => already shared in another repo:
 	https://github.com/LTJ508/Diary-Management-System-C
-03. Lab Manual
-04. Course Objective and Outcome ref URL:
+03. C Code done in this lab course already shared in this repo:
+	https://github.com/LTJ508/C_and_C_plus_plus_Language_Learning
+04. Lab Manual
+05. Course Objective and Outcome ref URL:
 	http://ece.northsouth.edu/courses/cse-115/
