@@ -8,6 +8,62 @@ MAT 116, MAT 120, MAT 125, MAT 130, **MAT 350**<br>
 EEE 141, EEE 111<br>
 PHY 107, PHY 108<br>
 ECO 101
+
+# Course Map
+**Semester 01 (Spring 2022): 0 + 7(3) = 7(3) = 3.58 (B+)** </br>
+ENG 102 = RT1 = B</br>
+CSE 115 = SfM1 = A</br>
+CSE 115L = SfM1 = A</br>
+MAT 116 = MMR5 = A</br>
+
+**Semester 02 (Summer 2022): 7(3) + 13 = 20(3) = 3.75 (A-)** </br>
+ENG 103 = Sye = B+</br>
+MAT 120 = NSr = A</br>
+MAT 125 = AuR = A</br>
+CSE 173 = MSK1 = A</br>
+EEE 154 = Mun = A</br>
+
+**Semester 03 (Fall 2022): 20(3) + 14 = 34(3) = 3.77 (A-)** </br>
+BEN 205 = Snj = B+</br>
+MAT 130 = MS1 = A</br>
+PHY 107 = SIs = A</br>
+PHY 107L = Rks = A</br>
+CSE 215 = RRn = A-</br>
+CSE 215L = RRn = A</br>
+
+**Semester 04 (Spring 2023): 34(3) + 20(2) = 54(5) = 3.80 (A-)** </br>
+CSE 231+L = Azz = A</br>
+MAT 250 = KMRn = A</br>
+PHY 108 = ZUM = A</br>
+PHY 108L = HrR = A</br>
+CSE 225+L = SAK1 = A</br>
+HIS 102 = NIB = B</br>
+EEE 141 = SfA = A</br>
+EEE 141L = SfA = A</br>
+
+**Semester 05 (Summer 2023): 54(5) + 19(2) = 73(7) = 3.83 (A-)** </br>
+CSE 311+L = IAH = A</br>
+CSE 332+L = Sfm = A</br>
+MAT 350 = Mla = A</br>
+MAT 361 = MMRh = A</br>
+EEE 111 = DMM = A</br>
+EEE 111L = DMM = A</br>
+HIS 103 = TRh = B+</br>
+
+**Semester 06 (Fall 2023): 73(7) + 8 = 81(7) = 3.84 (A-)** </br>
+CHE 101 = MKUN = A</br>
+ECO 101 = Ans = A</br>
+CHE 101L = FZd = A-</br>
+BIO 103L = THn = A-</br>
+
+**Semester 07 (Spring 2024): 81(7) + 16(1) = 97(8) =** </br>
+CSE 299 = Mdy = </br>
+CSE 323 = SMU1 = </br>
+CSE 327 = MMBA = </br>
+CSE 331+L = SkH1 = </br>
+CSE 373 = MLE = </br>
+EEE 452 = Rkz = </br>
+
 # Disclaimer:
 **I am not uploading lecture slides or manuals for copyright issues. I have these documents, codes, and class notes I write. And please don't misuse these documents. Share with your friends as much as possible. If you need some lecture slides, you can mail me using your NSU mail. Without the NSU mail, I would not have shared anything.**
 
