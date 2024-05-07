@@ -1,0 +1,10 @@
+Software engineering project submission date for all sections: 12/05/2024
+Students must submit following diagrams:
+1)Use case diagrams: For group project, each group member should choose one or more than one actor(s) and show use case diagram(s) of that(or those) actors. But no two students should do use case diagram of same actor.
+2)Sequence diagrams: For group project, each group member should choose one or more than one function(s) and show sequence diagram(s) of that(or those) function(s). But no two students should do sequence diagram of same function. 
+3)Class diagram representing relationships of classes of full system(or part of system if the system is too complex or big): This should be done one diagram by participating all members of the group.
+4)Diagram representing each class information: The group members should split all the classes of the system (classes of class diagram) among themselves and draw those class information(class name, attributes and functions) in box.
+5)Generalization class diagram representing inheritance relationships of classes of full system(or part of system if the system is too complex or big): This should be done one diagram by participating all members of the group.
+6)Aggregation class diagram representing aggregation relationships of classes of full system(or part of system if the system is too complex or big): This should be done one diagram by participating all members of the group.
+
+You have to submit softcopy of assignment. You can draw using computer or can draw in a paper using your hand and then take mobile photo.
