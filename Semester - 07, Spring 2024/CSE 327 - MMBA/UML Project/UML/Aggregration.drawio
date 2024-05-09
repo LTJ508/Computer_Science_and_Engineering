@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" modified="2024-05-09T14:24:39.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="N_fGMtMqmrBnt1FdVXsS" version="24.3.1" type="device">
+  <diagram name="Page-1" id="hAKoQY44j5lO0ladiN9a">
+    <mxGraphModel dx="1386" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W3pawh41neYTCDGQMozx-5" value="Consultation" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="390" y="320" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W3pawh41neYTCDGQMozx-6" value="Doctor" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="310" y="440" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W3pawh41neYTCDGQMozx-7" value="Hospital" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="461" y="440" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W3pawh41neYTCDGQMozx-8" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;exitX=0.891;exitY=-0.02;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="W3pawh41neYTCDGQMozx-6" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="650" as="sourcePoint" />
+            <mxPoint x="408" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W3pawh41neYTCDGQMozx-9" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;exitX=0.891;exitY=-0.02;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="478" y="439" as="sourcePoint" />
+            <mxPoint x="478" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W3pawh41neYTCDGQMozx-10" value="Prescribed_In" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="380" y="570" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W3pawh41neYTCDGQMozx-11" value="Prescriptions" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="314" y="690" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W3pawh41neYTCDGQMozx-12" value="Medicine" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="450" y="690" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W3pawh41neYTCDGQMozx-13" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;exitX=0.891;exitY=-0.02;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="408" y="689" as="sourcePoint" />
+            <mxPoint x="408" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W3pawh41neYTCDGQMozx-14" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;exitX=0.891;exitY=-0.02;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="468" y="689" as="sourcePoint" />
+            <mxPoint x="468" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

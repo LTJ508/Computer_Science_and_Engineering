@@ -1,0 +1,54 @@
+<mxfile host="app.diagrams.net" modified="2024-05-09T14:31:22.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="ri4kVQ3MeZnww7EsqBrf" version="24.3.1" type="device">
+  <diagram name="Page-1" id="KWVp0uY42USOUIRWh2jb">
+    <mxGraphModel dx="1386" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TSjqbWxO8Zb8RLSTA2CS-1" value="User_Details" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="390" y="360" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TSjqbWxO8Zb8RLSTA2CS-2" value="Doctor" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="560" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TSjqbWxO8Zb8RLSTA2CS-3" value="Patient" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="290" y="560" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TSjqbWxO8Zb8RLSTA2CS-4" value="Hospital" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="450" y="560" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TSjqbWxO8Zb8RLSTA2CS-5" value="Diagnostic_Cnter" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="610" y="560" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TSjqbWxO8Zb8RLSTA2CS-9" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="TSjqbWxO8Zb8RLSTA2CS-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="445" y="480" as="sourcePoint" />
+            <mxPoint x="460" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSjqbWxO8Zb8RLSTA2CS-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TSjqbWxO8Zb8RLSTA2CS-2" target="TSjqbWxO8Zb8RLSTA2CS-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="430" as="sourcePoint" />
+            <mxPoint x="690" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="185" y="480" />
+              <mxPoint x="540" y="480" />
+              <mxPoint x="665" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSjqbWxO8Zb8RLSTA2CS-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="TSjqbWxO8Zb8RLSTA2CS-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="510" as="sourcePoint" />
+            <mxPoint x="345" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSjqbWxO8Zb8RLSTA2CS-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="505" y="560" as="sourcePoint" />
+            <mxPoint x="505" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
