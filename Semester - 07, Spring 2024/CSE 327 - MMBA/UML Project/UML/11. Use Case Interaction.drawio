@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" modified="2024-05-13T18:19:40.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.4.0" etag="dsDuLDXom4IFf4HYxw95" type="device">
+  <diagram id="xwi0ouF8kbUD_5RS5I-p" name="Page-1">
+    <mxGraphModel dx="1386" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xA-dJz9BhhfkeNjWp_s1-1" value="Diagnostic Center" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xA-dJz9BhhfkeNjWp_s1-2" value="Doctor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="150" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xA-dJz9BhhfkeNjWp_s1-3" value="Patient" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="390" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xA-dJz9BhhfkeNjWp_s1-6" value="Test Report" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xA-dJz9BhhfkeNjWp_s1-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xA-dJz9BhhfkeNjWp_s1-1" target="xA-dJz9BhhfkeNjWp_s1-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="420" as="sourcePoint" />
+            <mxPoint x="460" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xA-dJz9BhhfkeNjWp_s1-8" value="Update or Upload" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xA-dJz9BhhfkeNjWp_s1-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xA-dJz9BhhfkeNjWp_s1-6" target="xA-dJz9BhhfkeNjWp_s1-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="280" as="sourcePoint" />
+            <mxPoint x="640" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xA-dJz9BhhfkeNjWp_s1-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xA-dJz9BhhfkeNjWp_s1-6" target="xA-dJz9BhhfkeNjWp_s1-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="420" as="sourcePoint" />
+            <mxPoint x="460" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xA-dJz9BhhfkeNjWp_s1-11" value="View Report" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xA-dJz9BhhfkeNjWp_s1-12" value="View Report" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xA-dJz9BhhfkeNjWp_s1-13" value="Doctor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="550" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xA-dJz9BhhfkeNjWp_s1-14" value="Hospital" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="670" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xA-dJz9BhhfkeNjWp_s1-15" value="Diagnostic Center" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="790" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xA-dJz9BhhfkeNjWp_s1-20" value="Central Database System" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xA-dJz9BhhfkeNjWp_s1-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xA-dJz9BhhfkeNjWp_s1-14" target="xA-dJz9BhhfkeNjWp_s1-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="740" as="sourcePoint" />
+            <mxPoint x="450" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xA-dJz9BhhfkeNjWp_s1-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xA-dJz9BhhfkeNjWp_s1-13" target="xA-dJz9BhhfkeNjWp_s1-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="740" as="sourcePoint" />
+            <mxPoint x="450" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xA-dJz9BhhfkeNjWp_s1-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xA-dJz9BhhfkeNjWp_s1-15" target="xA-dJz9BhhfkeNjWp_s1-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="830" as="sourcePoint" />
+            <mxPoint x="450" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xA-dJz9BhhfkeNjWp_s1-24" value="Register Account" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="364" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xA-dJz9BhhfkeNjWp_s1-25" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="670" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xA-dJz9BhhfkeNjWp_s1-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xA-dJz9BhhfkeNjWp_s1-20" target="xA-dJz9BhhfkeNjWp_s1-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="620" as="sourcePoint" />
+            <mxPoint x="450" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xA-dJz9BhhfkeNjWp_s1-28" value="Review Accounts" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xA-dJz9BhhfkeNjWp_s1-29" value="Use Case Interaction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="184" y="50" width="460" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xA-dJz9BhhfkeNjWp_s1-30" value="Group Work" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="900" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

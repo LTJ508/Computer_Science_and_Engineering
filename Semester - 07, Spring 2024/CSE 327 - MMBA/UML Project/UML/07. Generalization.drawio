@@ -1,0 +1,60 @@
+<mxfile host="app.diagrams.net" modified="2024-05-13T16:33:58.777Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="3sAUVrD1ojxGCoMQJ_0r" version="24.4.0" type="device">
+  <diagram name="Page-1" id="KWVp0uY42USOUIRWh2jb">
+    <mxGraphModel dx="1386" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TSjqbWxO8Zb8RLSTA2CS-1" value="User_Details" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="360" y="190" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TSjqbWxO8Zb8RLSTA2CS-2" value="Doctor" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="100" y="390" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TSjqbWxO8Zb8RLSTA2CS-3" value="Patient" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="260" y="390" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TSjqbWxO8Zb8RLSTA2CS-4" value="Hospital" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="420" y="390" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TSjqbWxO8Zb8RLSTA2CS-5" value="Diagnostic_Cnter" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="580" y="390" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TSjqbWxO8Zb8RLSTA2CS-9" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="TSjqbWxO8Zb8RLSTA2CS-1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="415" y="310" as="sourcePoint" />
+            <mxPoint x="430" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSjqbWxO8Zb8RLSTA2CS-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="TSjqbWxO8Zb8RLSTA2CS-2" target="TSjqbWxO8Zb8RLSTA2CS-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="260" as="sourcePoint" />
+            <mxPoint x="660" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="155" y="310" />
+              <mxPoint x="510" y="310" />
+              <mxPoint x="635" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSjqbWxO8Zb8RLSTA2CS-15" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="TSjqbWxO8Zb8RLSTA2CS-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="340" as="sourcePoint" />
+            <mxPoint x="315" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSjqbWxO8Zb8RLSTA2CS-16" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="475" y="390" as="sourcePoint" />
+            <mxPoint x="475" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1VgcT8zxYSIZOdvtRH_g-1" value="Group Work" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="575" y="570" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1VgcT8zxYSIZOdvtRH_g-2" value="Generalization" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="274" y="60" width="280" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

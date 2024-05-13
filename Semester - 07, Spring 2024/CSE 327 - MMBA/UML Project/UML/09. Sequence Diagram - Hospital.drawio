@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T07:14:45.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="IMm7DSZBFzT0w0fyXBSQ" version="24.3.1" type="device">
+<mxfile host="app.diagrams.net" modified="2024-05-13T17:37:43.990Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="HETJRnohvnSpGPws4KM6" version="24.4.0" type="device">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1386" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="aM9ryv3xv72pqoxQDRHE-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-5" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-7" value="Form" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-2" target="aM9ryv3xv72pqoxQDRHE-6" edge="1">
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-7" value="login(userID, password)" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-2" target="aM9ryv3xv72pqoxQDRHE-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="335" y="270" as="sourcePoint" />
             <Array as="points">
@@ -27,34 +27,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-8" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-8" value="Logout()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="235" y="630" as="targetPoint" />
             <Array as="points">
               <mxPoint x="330" y="630" />
             </Array>
             <mxPoint x="405" y="630" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-9" value="Validation failed" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="405" y="300" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="370" y="300" />
-              <mxPoint x="330" y="320" />
-            </Array>
-            <mxPoint x="240" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-10" value="Validation Success" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="405" y="340" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="300" y="340" />
-              <mxPoint x="340" y="360" />
-              <mxPoint x="320" y="390" />
-            </Array>
-            <mxPoint x="240" y="340" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="InP3aCbgD08gTLR2pK__-1" value="Hospital" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
@@ -66,7 +45,7 @@
         <mxCell id="wNNsLy4hW9dR33c7cgfB-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="wNNsLy4hW9dR33c7cgfB-1" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="wNNsLy4hW9dR33c7cgfB-3" value="View Appointments" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="wNNsLy4hW9dR33c7cgfB-2" edge="1">
+        <mxCell id="wNNsLy4hW9dR33c7cgfB-3" value="View Appointments(H_ID, date)" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="wNNsLy4hW9dR33c7cgfB-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="280" as="sourcePoint" />
             <Array as="points">
@@ -75,53 +54,59 @@
             <mxPoint x="590" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wNNsLy4hW9dR33c7cgfB-5" value="Retrieved Data&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" source="wNNsLy4hW9dR33c7cgfB-2" target="aM9ryv3xv72pqoxQDRHE-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="585" y="320" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="500" y="420" />
-            </Array>
-            <mxPoint x="420" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wNNsLy4hW9dR33c7cgfB-7" value="Add new Consultation Hour form" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="415" y="470" as="sourcePoint" />
+            <mxPoint x="415" y="440" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="510" y="470" />
+              <mxPoint x="510" y="440" />
             </Array>
-            <mxPoint x="595" y="470" as="targetPoint" />
+            <mxPoint x="595" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wNNsLy4hW9dR33c7cgfB-8" value="Consultation List" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="wNNsLy4hW9dR33c7cgfB-2" edge="1">
+        <mxCell id="wNNsLy4hW9dR33c7cgfB-8" value="Consultation List(H_ID)" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="400" as="sourcePoint" />
+            <mxPoint x="415" y="510" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="490" y="530" />
+              <mxPoint x="490" y="510" />
             </Array>
-            <mxPoint x="590" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wNNsLy4hW9dR33c7cgfB-10" value="Retrieved Data&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="595" y="580" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="515" y="580" />
-            </Array>
-            <mxPoint x="415" y="580" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6aZ0vb7WPWA2f7vml_0Z-2" value="New Data Updated" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" source="wNNsLy4hW9dR33c7cgfB-2" target="aM9ryv3xv72pqoxQDRHE-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="500" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="495" y="500" />
-            </Array>
-            <mxPoint x="420" y="500" as="targetPoint" />
+            <mxPoint x="595" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6aZ0vb7WPWA2f7vml_0Z-3" value="&lt;h1&gt;Hospital Sequence Diagram&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="293" y="720" width="265" height="60" as="geometry" />
+          <mxGeometry x="293" y="700" width="265" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kvR2-_bn7TMHgIjRCqTO-1" value="Validation failed" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="303" as="sourcePoint" />
+            <mxPoint x="240" y="303" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kvR2-_bn7TMHgIjRCqTO-3" value="Validation Success(H_ID)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="aM9ryv3xv72pqoxQDRHE-6">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="240" y="350" as="sourcePoint" />
+            <mxPoint x="320" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kvR2-_bn7TMHgIjRCqTO-4" value="Retrieved &amp;amp; Return Data" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="595" y="406" as="sourcePoint" />
+            <mxPoint x="415" y="406" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kvR2-_bn7TMHgIjRCqTO-5" value="New Data Updated" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="595" y="466" as="sourcePoint" />
+            <mxPoint x="415" y="466" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kvR2-_bn7TMHgIjRCqTO-6" value="Retrieved &amp;amp; Return Data&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="595" y="555" as="sourcePoint" />
+            <mxPoint x="415" y="555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kvR2-_bn7TMHgIjRCqTO-7" value="Drawn By&lt;div&gt;Saikat Ghosh - 2011146642&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="740" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
