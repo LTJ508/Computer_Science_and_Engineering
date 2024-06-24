@@ -64,7 +64,7 @@ CSE 331+L = SkH1 = A</br>
 CSE 373 = MLE = A</br>
 EEE 452 = Rkz = B</br>
 
-**Semester 08 (Summer 2024): 9787) + **</br>
+**Semester 08 (Summer 2024): 97(8) + **</br>
 
 # Disclaimer:
 **I am not uploading lecture slides or manuals for copyright issues. I have these documents, codes, and class notes I write. And please don't misuse these documents. Share with your friends as much as possible. If you need some lecture slides, you can mail me using your NSU mail. Without the NSU mail, I would not have shared anything.**
