@@ -3,7 +3,7 @@ I am making this repository for students who are studying or are willing to stud
 Also, if you need help understanding these class notes or any topic, please get in touch with me.
 
 # Class Notes that may be very helpful to you
-CSE 173, CSE 231, **CSE 332**, CSE 323, **CSE 331**, CSE 373<br>
+CSE 173, CSE 231, **CSE 332**, CSE 323, **CSE 331**, CSE 373, CSE 411, CSE 425<br>
 MAT 116, MAT 120, MAT 125, MAT 130, **MAT 350**<br>
 EEE 141, EEE 111<br>
 PHY 107, PHY 108<br>
@@ -64,7 +64,13 @@ CSE 331+L = SkH1 = A</br>
 CSE 373 = MLE = A</br>
 EEE 452 = Rkz = B</br>
 
-**Semester 08 (Summer 2024): 97(8) + **</br>
+**Semester 08 (Summer 2024): 97(8) + 13.5(0) = 110.5(8)**</br>
+CSE 411 = SLf = </br>
+CSE 425 = MSK1 = </br>
+CSE 499A = Mdy = </br>
+POL 101 = MJU = </br>
+SOC 101 = SRFz = </br>
+
 
 # Disclaimer:
 **I am not uploading lecture slides or manuals for copyright issues. I have these documents, codes, and class notes I write. And please don't misuse these documents. Share with your friends as much as possible. If you need some lecture slides, you can mail me using your NSU mail. Without the NSU mail, I would not have shared anything.**
