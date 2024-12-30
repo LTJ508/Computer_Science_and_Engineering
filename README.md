@@ -65,11 +65,11 @@ CSE 373 = MLE = A</br>
 EEE 452 = Rkz = B</br>
 
 **Semester 08 (Summer 2024): 97(8) + 13.5(0) = 110.5(8)**</br>
-CSE 411 = SLf = </br>
-CSE 425 = MSK1 = </br>
-CSE 499A = Mdy = </br>
-POL 101 = MJU = </br>
-SOC 101 = SRFz = </br>
+CSE 411 = SLf = A</br>
+CSE 425 = MSK1 = A</br>
+CSE 499A = Mdy = I</br>
+POL 101 = MJU = B+</br>
+SOC 101 = SRFz = B+</br>
 
 
 # Disclaimer:
