@@ -1,7 +1,5 @@
 # These file are not shared publicly for avoiding copyright issue...
-
-## eBooks
-## Lecture Slides
-
+01. eBooks
+02. Lecture Slides
 
 # For missing you can contact me thru NSU mail 2211424642
