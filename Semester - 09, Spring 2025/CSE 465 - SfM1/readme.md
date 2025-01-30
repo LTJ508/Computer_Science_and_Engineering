@@ -1,8 +1,13 @@
-# These file are not shared publicly for avoiding copyright issue...
+# These files are not shared publicly to avoid copyright issues
+
 01. Lecture Slides
 
-## eBook Link
-https://www.deeplearningbook.org/
-http://neuralnetworksanddeeplearning.com/
+02. Exam Questions
 
-# For missing you can contact me thru NSU mail 2211424642
+## eBook Link
+
+[Deep Learning Book](https://www.deeplearningbook.org/)
+
+[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+
+For missing files, you can contact me through NSU mail 2211424642
