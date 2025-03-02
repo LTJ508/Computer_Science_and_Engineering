@@ -1,4 +1,6 @@
-# These file are not shared publicly for avoiding copyright issue...
-01. Lecture Slides
+# These files are not shared publicly to avoid copyright issues
 
-# For missing you can contact me thru NSU mail 2211424642
+01. Lecture Slides
+02. Sample Questions
+
+## For missing files, you can contact me through NSU mail 2211424642
