@@ -1,6 +1,0 @@
-These file are not shared publicly for avoiding copyright issue.
-
-01. eBooks
-02. Lecture Slide
-03. JAVA Code done in this course already shared in this repo:
-	https://github.com/LTJ508/JAVA_Learning

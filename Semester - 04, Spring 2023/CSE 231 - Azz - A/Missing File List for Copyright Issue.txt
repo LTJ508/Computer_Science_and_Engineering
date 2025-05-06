@@ -1,7 +1,0 @@
-These file are not shared publicly for avoiding copyright issue.
-
-01. eBooks
-02. Question Papers
-03. Lecture Slide
-04. Course Outlone Ref Link:
-	http://ece.northsouth.edu/courses/cse-231/
