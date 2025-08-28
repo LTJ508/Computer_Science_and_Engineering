@@ -70,7 +70,7 @@ EEE 452 = Rkz = B</br>
 **Semester 08 (Summer 2024): 97(8) + 13.5(0) = 110.5(8)**</br>
 CSE 411 = SLf = A</br>
 CSE 425 = MSK1 = A</br>
-CSE 499A = Mdy = I</br>
+CSE 499A = Mdy = A</br>
 POL 101 = MJU = B+</br>
 SOC 101 = SRFz = B+</br>
 
@@ -78,7 +78,7 @@ SOC 101 = SRFz = B+</br>
 BIO 103 = AWN = A-</br>
 CSE 273(OPEN ELECT) = MMK1 = A</br>
 CSE 465(ELECT-2) = SfM1 = A-</br>
-CSE 499B = Mdy = I</br>
+CSE 499B = Mdy = A</br>
 ENG 111 = SDMA = B</br>
 
 **Semester 10 (Summer 2025): 124(8) + 6(1) = 130(9)**</br>
