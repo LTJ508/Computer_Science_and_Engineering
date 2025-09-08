@@ -16,5 +16,6 @@
 ## Project Repository
 
 [https://github.com/LTJ508/WeatherAnalysisDhaka](https://github.com/LTJ508/WeatherAnalysisDhaka)
+[https://github.com/LTJ508/WeatherForecasting](https://github.com/LTJ508/WeatherForecasting)
 
 ## For missing files, you can contact me through NSU mail 2211424042
