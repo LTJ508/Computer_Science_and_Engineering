@@ -83,7 +83,7 @@ ENG 111 = SDMA = B</br>
 
 **Semester 10 (Summer 2025): 124(8) + 6(1) = 130(9)**</br>
 CSE 445 = MAQm = A-</br>
-CSE 498R - Research</br>
+CSE 498R - Internship - A</br>
 PHI 104 = MmEe = B+</br>
 
 ## Disclaimer
